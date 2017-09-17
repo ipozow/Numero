@@ -1,5 +1,5 @@
 # Numero
-Yo numero,
+Yo numero
 
 Tú numeras
 
